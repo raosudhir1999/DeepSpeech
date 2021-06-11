@@ -50,9 +50,7 @@ Published
 }
 ```
 
-* Ruswan Efendi (2019) "Automatic Speech Recognition Bahasa Indonesia Menggunakan Bidirectional Long Short-Term Memory dan Connectionist Temporal Classification". MA Thesis. Universitas Sumatera Utara.
-
-```
+* 
 @mastersthesis{theis:2019,
     author = {Ruswan Efendi},
     title = {Automatic Speech Recognition Bahasa Indonesia Menggunakan Bidirectional Long Short-Term Memory dan Connectionist Temporal Classification},
